@@ -8,10 +8,10 @@
 		"Me!"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/superhot",
+		"sources": "https://github.com/JosiahFu/SuperHot"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/superhot/icon.png",
 	"environment": "*",
 	"entrypoints": {
